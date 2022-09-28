@@ -7,3 +7,7 @@ Power BI Dashborad
 # District Analysis
 
 ![](https://github.com/AbdulJabbar64/Retail-Analysis-Power-BI-Dashboard/blob/main/Retail%20Analysis/images/rt.PNG)
+
+# Store Analysis
+
+![](https://github.com/AbdulJabbar64/Retail-Analysis-Power-BI-Dashboard/blob/main/Retail%20Analysis/images/rt1.PNG)
