@@ -11,3 +11,7 @@ Power BI Dashborad
 # Store Analysis
 
 ![](https://github.com/AbdulJabbar64/Retail-Analysis-Power-BI-Dashboard/blob/main/Retail%20Analysis/images/rt1.PNG)
+
+# Item Analysis
+
+![](https://github.com/AbdulJabbar64/Retail-Analysis-Power-BI-Dashboard/blob/main/Retail%20Analysis/images/rt3.PNG)
